@@ -117,4 +117,13 @@
       integrated into a comprehensive development 
       environment.</description>
    </book>
+   <book id="bk113">
+      <author>Nocom, Jerome</author>
+      <title>Kinaxis: RapidResponse</title>
+      <genre>Computer</genre>
+      <price>69.99</price>
+      <publish_date>2017-12-05</publish_date>
+      <description>This is a book about Kinaxis - RapidResponse Ascendant
+      how to use it.</description>
+   </book>
 </catalog>
