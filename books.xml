@@ -106,24 +106,4 @@
       detail, with attention to XML DOM interfaces, XSLT processing, 
       SAX and more.</description>
    </book>
-   <book id="bk112">
-      <author>Galos, Mike</author>
-      <title>Visual Studio 7: A Comprehensive Guide</title>
-      <genre>Computer</genre>
-      <price>49.95</price>
-      <publish_date>2001-04-16</publish_date>
-      <description>Microsoft Visual Studio 7 is explored in depth,
-      looking at how Visual Basic, Visual C++, C#, and ASP+ are 
-      integrated into a comprehensive development 
-      environment.</description>
-   </book>
-   <book id="bk113">
-      <author>Nocom, Jerome</author>
-      <title>Kinaxis: RapidResponse</title>
-      <genre>Computer</genre>
-      <price>69.99</price>
-      <publish_date>2017-12-05</publish_date>
-      <description>This is a book about Kinaxis - RapidResponse Ascendant
-      how to use it.</description>
-   </book>
 </catalog>
